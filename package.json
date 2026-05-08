@@ -19,7 +19,7 @@
     "url": "https://github.com/PutuReyvan/devops-pipeline/issues"
   },
   "homepage": "https://github.com/PutuReyvan/devops-pipeline#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^30.4.1"
   }
 }
