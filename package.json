@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
-    "test": "npx jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/PutuReyvan/devops-pipeline/issues"
   },
-  "homepage": "https://github.com/PutuReyvan/devops-pipeline#readme"
+  "homepage": "https://github.com/PutuReyvan/devops-pipeline#readme",
+  "dependencies": {
+    "jest": "^30.4.1"
+  }
 }
