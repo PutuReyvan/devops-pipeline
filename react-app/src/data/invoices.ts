@@ -3,7 +3,7 @@ import type { Invoice } from '../types/invoice'
 export const mockInvoices: Invoice[] = [
     {
         id: 1,
-        client: 'Acme Manufacturing',
+        client: 'Agmo Manufacturing',
         amount: 5400,
         status: 'paid',
         dueDate: '2026-04-18',
